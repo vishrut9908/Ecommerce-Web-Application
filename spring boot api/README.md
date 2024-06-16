@@ -100,19 +100,5 @@ All protected endpoints require the `Authorization` header with a valid token.
 - CreateProductRequest
 - PageProduct
 
-## Servers
-
-- Server 1:
-  - URL: `http://localhost:5454`
-  - Description: Generated server URL
-
-## Contact
-
-For any queries or issues, please contact **Ashok Zarmariya** at `ashokzarmariya@gmail.com`.
-
-## License
-
-This API is licensed under **Ashok Zarmariya**.
-
 
 
